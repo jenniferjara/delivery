@@ -17,4 +17,4 @@ Pseudocódigo
 13. recepción del pedido
 14. pagar
 
-[Diagrama de Flujo](http://i64.tinypic.com/13z98cw.jpg "Diagrama de Flujo")
+![diagrama](http://i64.tinypic.com/13z98cw.jpg)
