@@ -21,7 +21,7 @@
 11. colgar 
 12. esperar 
 13. recepción del pedido
-14. 14. pagar 
+14. pagar 
 
   **no contesta**
 * Cuelga 
